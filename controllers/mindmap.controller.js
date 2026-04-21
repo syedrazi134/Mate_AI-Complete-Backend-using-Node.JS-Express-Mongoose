@@ -1,4 +1,4 @@
-const MindMap  = require('../models/MindMap.model');
+const MindMap  = require('../models/Mindmap.model');
 const Subject  = require('../models/Subject.model');
 const Note     = require('../models/Note.model');
 const { AppError } = require('../middleware/errorHandler');

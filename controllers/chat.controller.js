@@ -1,4 +1,4 @@
-const ChatSession = require('../models/ChatSession.model');
+const ChatSession = require('../models/Chatsession.model');
 const Subject     = require('../models/Subject.model');
 const Note        = require('../models/Note.model');
 const { AppError } = require('../middleware/errorHandler');
